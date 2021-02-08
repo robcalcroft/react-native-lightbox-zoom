@@ -5,6 +5,14 @@
   "repository": "git@github.com:robcalcroft/react-native-lightbox-zoom.git",
   "author": "Rob Calcroft <robcalcroft@users.noreply.github.com>",
   "license": "GPL-3.0-only",
+  "keywords": [
+    "react",
+    "react-native",
+    "lightbox",
+    "pan",
+    "zoom",
+    "pinch"
+  ],
   "dependencies": {
     "prop-types": "^15.7.2",
     "react-native-safe-area-context": "^3.1.9"

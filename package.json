@@ -35,6 +35,6 @@
   },
   "scripts": {
     "lint": "eslint .",
-    "changelog": "echo \"\n** Getting latest tags **\n\" && git pull && echo \"\n** Generating changelog **\n\" && standard-version"
+    "changelog": "echo \"\n** Getting latest tags **\n\" && git pull && echo \"\n** Generating changelog **\n\" && standard-changelog"
   }
 }

@@ -6,6 +6,10 @@
 
 :warning: `react-native-lightbox-zoom` requires React Native >=0.60
 
+## Install
+1. Install React and React Native (skip if you have them installed already)
+2. Install `react-native-lightbox-zoom` and its dependency: `yarn add react-native-gesture-handler react-native-lightbox-zoom` - `react-native-gesture-handler` must be installed locally as duplicate copies can break your app.
+
 ## Demo video
 ![react native lightbox zoom demo](https://i.imgur.com/749klgE.gif)
 

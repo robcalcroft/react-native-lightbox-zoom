@@ -16,6 +16,7 @@ import {
   PanGestureHandler,
   TouchableWithoutFeedback,
   State,
+  // eslint-disable-next-line import/no-unresolved
 } from "react-native-gesture-handler";
 import crossIcon from "./cross.png";
 

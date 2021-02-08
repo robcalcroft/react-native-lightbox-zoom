@@ -7,7 +7,6 @@
   "license": "GPL-3.0-only",
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react-native-gesture-handler": "^1.9.0",
     "react-native-safe-area-context": "^3.1.9"
   },
   "devDependencies": {
@@ -23,7 +22,8 @@
   },
   "peerDependencies": {
     "react": ">16.8",
-    "react-native": ">0.60"
+    "react-native": ">0.60",
+    "react-native-gesture-handler": ">1.9.0"
   },
   "scripts": {
     "lint": "eslint ."

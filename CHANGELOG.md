@@ -1,3 +1,7 @@
+## [0.0.3](https://github.com/robcalcroft/react-native-lightbox-zoom/compare/v0.0.2...v0.0.3) (2021-02-08)
+
+
+
 ## 0.0.2 (2021-02-08)
 
 

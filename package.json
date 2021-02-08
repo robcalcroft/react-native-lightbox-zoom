@@ -1,6 +1,6 @@
 {
   "name": "react-native-lightbox-zoom",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "repository": "git@github.com:robcalcroft/react-native-lightbox-zoom.git",
   "author": "Rob Calcroft <robcalcroft@users.noreply.github.com>",
